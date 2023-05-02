@@ -1,4 +1,4 @@
-# Skillcrush project - Single-page developer portfolio solution
+# Skillcrush project - potluck-guest-list-and-dish
 
 As part of my Front-End Developer Track at Skillcrush, I completed this project which enabled me to acquire additional front-end development skills.
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img/project-screenshot.jpg)
+![](./img/project-screenshot.png)
 
 ### Links
 
